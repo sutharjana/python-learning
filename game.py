@@ -14,3 +14,4 @@ elif (player == "rock" and computer == "scissors") or \
 else:
     print("Computer chose", computer)
     print("You lose!")
+    print('game is over'   )
