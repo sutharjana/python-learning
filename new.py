@@ -1,3 +1,6 @@
+import jana
+
+
 name = jana
 score =100
 print(f"{name} scored {score} in the test")
